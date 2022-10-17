@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="max-width: 95%; border: 1px solid #494949; margin: auto; @media only screen and (max-width: 600px);"> 
+    <form> 
+        <fieldset style="width:95%" > 
+    <header style="background-color:#a4a4a4"> 
+        <nav style="display: flex; align-items: center; padding: 10px; border-bottom: 1px solid black"> 
+            <ul class="logo" style="margin-right: 50px; display: flex; list-style-type: none; gap: 10px"> 
+                <li> 
+                    <h1>Home</h1>
+                </li> 
+            </ul> 
+            <ul class="menu-ul" style="display: flex; list-style-type: none; gap: 10px"> 
+                <li> 
+                    <p>Transaction History</p>  
+                </li> 
+                <li> 
+                    <p>Transaction History</p>  
+                </li> 
+                <li> 
+                    <p>Policy</p> 
+                </li> 
+                <li> 
+                    <p>Logout</p> 
+                </li> 
+            </ul> 
+            <ul class="icon-ul" 
+                style="margin-left: auto; display: flex; align-items: center; list-style-type: none; gap: 10px"> 
+                <br>
+                
+            
+<body>
+    
+   
+   
+</body>
+
+
+</html>
